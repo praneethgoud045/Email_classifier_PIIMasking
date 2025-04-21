@@ -130,5 +130,6 @@ You will see the API documentation where you can test the POST endpoint `/classi
 
 OUTPUT:
 ![Screenshot 2025-04-21 004731](https://github.com/user-attachments/assets/9c330951-6a6e-4ff1-9a93-1df949fd3c83)
+
 ![Screenshot 2025-04-21 004835](https://github.com/user-attachments/assets/85b81e45-1817-4d1f-9300-d1aa21aa281d)
 
